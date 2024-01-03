@@ -14,13 +14,13 @@ This Go program demonstrates a potentially destructive operation on the file sys
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/DestructiveOperationExample.git
+    git clone https://github.com/feezyhendrix/russian-roulette-go.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd DestructiveOperationExample
+    cd russian-roulette-go
     ```
 
 3. Run the Go program:
